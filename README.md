@@ -18,7 +18,3 @@ To run the test coverage run the following command from the application director
 ```sh
 npm test
 ```
-
-### Security and optimization
-
-This is an assessment test so I decided to skip implementing some security and optimization measures in order to save time. In a production environment I will definitely wouldn't skip this aspect.
