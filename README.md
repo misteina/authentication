@@ -1,4 +1,4 @@
-# Authentication Assessment Test
+# Authentication
 
 ### Installation steps:
 
